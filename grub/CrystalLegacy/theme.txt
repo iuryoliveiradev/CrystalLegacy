@@ -1,0 +1,31 @@
+# Tema GRUB — Crystal Legacy
+# Versão: 0.1 Alpha
+#
+# Este arquivo ainda é um esqueleto inicial.
+# Nenhuma configuração real deve ser aplicada ao sistema antes dos testes.
+
+desktop-image: "background.png"
+desktop-color: "#0b1020"
+
+title-text: "Crystal Legacy"
+title-color: "#dbeafe"
+title-font: "Unknown Regular 24"
+
+message-color: "#dbeafe"
+message-bg-color: "#0b1020"
+
+terminal-font: "Unknown Regular 16"
+
++ boot_menu {
+  left = 35%
+  top = 35%
+  width = 30%
+  height = 35%
+
+  item_font = "Unknown Regular 18"
+  item_color = "#dbeafe"
+  selected_item_color = "#facc15"
+  item_height = 36
+  item_padding = 8
+  item_spacing = 6
+}
