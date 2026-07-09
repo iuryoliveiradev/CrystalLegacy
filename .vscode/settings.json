@@ -1,0 +1,34 @@
+{
+  "editor.wordWrap": "on",
+  "editor.minimap.enabled": false,
+  "editor.fontSize": 14,
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "editor.bracketPairColorization.enabled": true,
+
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 1000,
+  "files.insertFinalNewline": true,
+  "files.trimTrailingWhitespace": true,
+
+  "terminal.integrated.defaultProfile.linux": "bash",
+
+  "workbench.iconTheme": "material-icon-theme",
+
+  "git.autofetch": true,
+
+  "cSpell.language": "pt,en",
+  "cSpell.words": [
+    "Crystal",
+    "Legacy",
+    "Cavaleiro",
+    "Plymouth",
+    "SDDM",
+    "GRUB",
+    "KDE",
+    "Arch",
+    "Linux",
+    "initramfs",
+    "systemd"
+  ]
+}
