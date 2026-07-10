@@ -1,0 +1,30 @@
+desktop-image: "assets/background.png"
+desktop-color: "#000000"
+
+# ==========================
+# LOGO
+# ==========================
+
++ image {
+    file = "assets/logo.png"
+
+    left = 50%-260
+    top = 35
+
+    width = 520
+    height = 120
+}
+
+# ==========================
+# MENU FRAME
+# ==========================
+
++ image {
+    file = "assets/menu_frame.png"
+
+    left = 50%-260
+    top = 185
+
+    width = 520
+    height = 220
+}
